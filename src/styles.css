@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.top-bar {
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.left-menu {
+  border: 1px solid;
+  margin: 2px;
+}
+
+.right-menu {
+  width: 100%;
+}
+
+.filter {
+  text-align: center;
+  width: inherit;
+}
+
+.clear-filter {
+  text-align: right;
+  width: inherit;
+  padding: 20%;
+  justify-content: right;
+}
